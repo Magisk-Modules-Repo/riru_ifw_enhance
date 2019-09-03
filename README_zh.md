@@ -2,7 +2,7 @@
 
 A module of [Riru](https://github.com/RikkaApps/Riru). Enhance Intent Firewall.
 
-[English](README.md)
+[English](https://github.com/Magisk-Modules-Repo/riru_ifw_enhance/blob/master/README.md)
 
 
 
