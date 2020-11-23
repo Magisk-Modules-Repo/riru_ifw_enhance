@@ -1,5 +1,6 @@
-# Remove riru configs
+#!/sbin/sh
+MODDIR=${0%/*}
+[ ! -f "$MODDIR/riru.sh" ] && exit 1
+. $MODDIR/riru.sh
 
-RIRU_MODULE_PATH="/data/misc/riru/modules"
-
-rm -rf "$RIRU_MODULE_PATH/ibr"
+rm -rf "$RIRU_MODULE_PATH"
