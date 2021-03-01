@@ -1,6 +1,6 @@
 name=IFW Enhance
-version=v5
-versionCode=5
+version=v7
+versionCode=7
 author=Kr328
 description=A module of Riru. Enhance intent firewall.
 api=9
